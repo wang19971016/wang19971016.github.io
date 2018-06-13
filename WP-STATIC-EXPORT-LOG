@@ -1,0 +1,154 @@
+2018-06-13 06:14:05 POST EXPORT CLEANUP: complete
+2018-06-13 06:14:05 POST EXPORT CLEANUP: removing zip: C:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016.zip
+2018-06-13 06:14:04 POST EXPORT CLEANUP: removing dir: C:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/
+2018-06-13 06:14:04 POST EXPORT CLEANUP: starting...
+2018-06-13 06:14:04 POST PROCESSING ARCHIVE DIR: ...
+2018-06-13 06:14:04 CRAWLING SITE: 0 files remaining
+2018-06-13 06:14:04 SAVING URL: /wordpress/%e4%b8%bb%e9%a1%b5%e7%ab%a0%e8%8a%82/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/%e4%b8%bb%e9%a1%b5%e7%ab%a0%e8%8a%82/index.html
+2018-06-13 06:14:04 CRAWLED FILE: http://localhost/wordpress/%e4%b8%bb%e9%a1%b5%e7%ab%a0%e8%8a%82/
+2018-06-13 06:14:03 CRAWLING URL: http://localhost/wordpress/%e4%b8%bb%e9%a1%b5%e7%ab%a0%e8%8a%82/
+2018-06-13 06:14:03 CRAWLING SITE: 1 files remaining
+2018-06-13 06:14:03 SAVING URL: /wordpress/%e5%8d%9a%e5%ae%a2/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/%e5%8d%9a%e5%ae%a2/index.html
+2018-06-13 06:14:03 CRAWLED FILE: http://localhost/wordpress/%e5%8d%9a%e5%ae%a2/
+2018-06-13 06:14:02 CRAWLING URL: http://localhost/wordpress/%e5%8d%9a%e5%ae%a2/
+2018-06-13 06:14:01 CRAWLING SITE: 2 files remaining
+2018-06-13 06:14:01 SAVING URL: /wordpress/wp-content/uploads/2018/06/espresso-1024x614.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/espresso-1024x614.jpg
+2018-06-13 06:14:01 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso-1024x614.jpg
+2018-06-13 06:14:01 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso-1024x614.jpg
+2018-06-13 06:14:01 SAVING URL: /wordpress/wp-content/uploads/2018/06/espresso-768x461.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/espresso-768x461.jpg
+2018-06-13 06:14:01 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso-768x461.jpg
+2018-06-13 06:14:01 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso-768x461.jpg
+2018-06-13 06:14:01 SAVING URL: /wordpress/wp-content/uploads/2018/06/espresso-300x180.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/espresso-300x180.jpg
+2018-06-13 06:14:01 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso-300x180.jpg
+2018-06-13 06:14:01 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso-300x180.jpg
+2018-06-13 06:14:01 SAVING URL: /wordpress/wp-content/uploads/2018/06/espresso.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/espresso.jpg
+2018-06-13 06:14:01 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso.jpg
+2018-06-13 06:14:01 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso.jpg
+2018-06-13 06:14:01 SAVING URL: /wordpress/%e8%81%94%e7%b3%bb/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/%e8%81%94%e7%b3%bb/index.html
+2018-06-13 06:14:01 CRAWLED FILE: http://localhost/wordpress/%e8%81%94%e7%b3%bb/
+2018-06-13 06:14:01 CRAWLING URL: http://localhost/wordpress/%e8%81%94%e7%b3%bb/
+2018-06-13 06:14:00 CRAWLING SITE: 3 files remaining
+2018-06-13 06:14:00 SAVING URL: /wordpress/wp-content/uploads/2018/06/sandwich-1024x614.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/sandwich-1024x614.jpg
+2018-06-13 06:14:00 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich-1024x614.jpg
+2018-06-13 06:14:00 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich-1024x614.jpg
+2018-06-13 06:14:00 SAVING URL: /wordpress/wp-content/uploads/2018/06/sandwich-768x461.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/sandwich-768x461.jpg
+2018-06-13 06:14:00 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich-768x461.jpg
+2018-06-13 06:14:00 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich-768x461.jpg
+2018-06-13 06:14:00 SAVING URL: /wordpress/wp-content/uploads/2018/06/sandwich-300x180.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/sandwich-300x180.jpg
+2018-06-13 06:14:00 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich-300x180.jpg
+2018-06-13 06:14:00 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich-300x180.jpg
+2018-06-13 06:14:00 SAVING URL: /wordpress/wp-content/uploads/2018/06/sandwich.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/sandwich.jpg
+2018-06-13 06:14:00 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich.jpg
+2018-06-13 06:14:00 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich.jpg
+2018-06-13 06:14:00 SAVING URL: /wordpress/%e5%85%b3%e4%ba%8e/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/%e5%85%b3%e4%ba%8e/index.html
+2018-06-13 06:14:00 CRAWLED FILE: http://localhost/wordpress/%e5%85%b3%e4%ba%8e/
+2018-06-13 06:13:59 CRAWLING URL: http://localhost/wordpress/%e5%85%b3%e4%ba%8e/
+2018-06-13 06:13:59 CRAWLING SITE: 4 files remaining
+2018-06-13 06:13:59 SAVING URL: /wordpress/wp-admin/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-admin/index.html
+2018-06-13 06:13:59 CRAWLED FILE: http://localhost/wordpress/wp-admin/
+2018-06-13 06:13:58 DISCOVERED NEW FILE: http://localhost/wordpress/wp-admin/
+2018-06-13 06:13:58 SAVING URL: /wordpress/sample-page/feed/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/sample-page/feed/index.rss
+2018-06-13 06:13:58 CRAWLED FILE: http://localhost/wordpress/sample-page/feed/
+2018-06-13 06:13:58 DISCOVERED NEW FILE: http://localhost/wordpress/sample-page/feed/
+2018-06-13 06:13:58 SAVING URL: /wordpress/sample-page/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/sample-page/index.html
+2018-06-13 06:13:58 CRAWLED FILE: http://localhost/wordpress/sample-page/
+2018-06-13 06:13:57 CRAWLING URL: http://localhost/wordpress/sample-page/
+2018-06-13 06:13:57 CRAWLING SITE: 5 files remaining
+2018-06-13 06:13:57 SAVING URL: UNABLE TO SAVE FOR SOME REASON
+2018-06-13 06:13:57 SAVING URL: /wordpress/wp-comments-post.php to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-comments-post.php
+2018-06-13 06:13:57 CRAWLED FILE: http://localhost/wordpress/wp-comments-post.php
+2018-06-13 06:13:57 DISCOVERED NEW FILE: http://localhost/wordpress/wp-comments-post.php
+2018-06-13 06:13:57 SAVING URL: /wordpress/author/wang19971016/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/author/wang19971016/index.html
+2018-06-13 06:13:57 CRAWLED FILE: http://localhost/wordpress/author/wang19971016/
+2018-06-13 06:13:57 DISCOVERED NEW FILE: http://localhost/wordpress/author/wang19971016/
+2018-06-13 06:13:57 SAVING URL: /wordpress/2018/06/13/hello-world/feed/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/2018/06/13/hello-world/feed/index.rss
+2018-06-13 06:13:57 CRAWLED FILE: http://localhost/wordpress/2018/06/13/hello-world/feed/
+2018-06-13 06:13:56 DISCOVERED NEW FILE: http://localhost/wordpress/2018/06/13/hello-world/feed/
+2018-06-13 06:13:56 SAVING URL: /wordpress/2018/06/13/hello-world/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/2018/06/13/hello-world/index.html
+2018-06-13 06:13:56 CRAWLED FILE: http://localhost/wordpress/2018/06/13/hello-world/
+2018-06-13 06:13:55 CRAWLING URL: http://localhost/wordpress/2018/06/13/hello-world/
+2018-06-13 06:13:55 CRAWLING SITE: 6 files remaining
+2018-06-13 06:13:55 SAVING URL: /wordpress/wp-content/themes/twentyseventeen\style.css to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/style.css
+2018-06-13 06:13:55 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen\style.css
+2018-06-13 06:13:55 CRAWLING URL: http://localhost/wordpress/wp-content/themes/twentyseventeen\style.css
+2018-06-13 06:13:55 CRAWLING SITE: 7 files remaining
+2018-06-13 06:13:55 SAVING URL: /wordpress/wp-content/themes/twentyseventeen\screenshot.png to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/screenshot.png
+2018-06-13 06:13:55 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen\screenshot.png
+2018-06-13 06:13:55 CRAWLING URL: http://localhost/wordpress/wp-content/themes/twentyseventeen\screenshot.png
+2018-06-13 06:13:54 CRAWLING SITE: 8 files remaining
+2018-06-13 06:13:54 SAVING URL: /wordpress/wp-content/themes/twentyseventeen\rtl.css to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/rtl.css
+2018-06-13 06:13:54 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen\rtl.css
+2018-06-13 06:13:54 CRAWLING URL: http://localhost/wordpress/wp-content/themes/twentyseventeen\rtl.css
+2018-06-13 06:13:54 CRAWLING SITE: 9 files remaining
+2018-06-13 06:13:54 SAVING URL: /wordpress/wp-content/themes/twentyseventeen\README.txt to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/README.txt
+2018-06-13 06:13:54 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen\README.txt
+2018-06-13 06:13:54 CRAWLING URL: http://localhost/wordpress/wp-content/themes/twentyseventeen\README.txt
+2018-06-13 06:13:53 CRAWLING SITE: 10 files remaining
+2018-06-13 06:13:53 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+2018-06-13 06:13:53 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+2018-06-13 06:13:53 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+2018-06-13 06:13:53 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/assets/js/global.js to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/assets/js/global.js
+2018-06-13 06:13:53 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/global.js
+2018-06-13 06:13:53 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/global.js
+2018-06-13 06:13:53 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/assets/js/navigation.js to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/assets/js/navigation.js
+2018-06-13 06:13:53 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/navigation.js
+2018-06-13 06:13:53 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/navigation.js
+2018-06-13 06:13:53 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+2018-06-13 06:13:53 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+2018-06-13 06:13:53 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+2018-06-13 06:13:53 SAVING URL: /wordpress/wp-content/uploads/2018/06/coffee.jpg); to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/coffee.jpg);
+2018-06-13 06:13:53 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/coffee.jpg);
+2018-06-13 06:13:53 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/coffee.jpg);
+2018-06-13 06:13:53 SAVING URL: /wordpress/wp-content/uploads/2018/06/sandwich.jpg); to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/sandwich.jpg);
+2018-06-13 06:13:53 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich.jpg);
+2018-06-13 06:13:53 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/sandwich.jpg);
+2018-06-13 06:13:53 SAVING URL: /wordpress/wp-content/uploads/2018/06/espresso.jpg); to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/uploads/2018/06/espresso.jpg);
+2018-06-13 06:13:53 CRAWLED FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso.jpg);
+2018-06-13 06:13:52 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/uploads/2018/06/espresso.jpg);
+2018-06-13 06:13:52 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/assets/images/header.jpg to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/assets/images/header.jpg
+2018-06-13 06:13:52 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/images/header.jpg
+2018-06-13 06:13:52 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/images/header.jpg
+2018-06-13 06:13:52 SAVING URL: /wordpress/wp-json/oembed/1.0/embed to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-json/oembed/1.0/embed/index.json
+2018-06-13 06:13:52 CRAWLED FILE: http://localhost/wordpress/wp-json/oembed/1.0/embed
+2018-06-13 06:13:52 DISCOVERED NEW FILE: http://localhost/wordpress/wp-json/oembed/1.0/embed
+2018-06-13 06:13:52 SAVING URL: /wordpress/xmlrpc.php to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/xmlrpc.php
+2018-06-13 06:13:52 CRAWLED FILE: http://localhost/wordpress/xmlrpc.php
+2018-06-13 06:13:52 DISCOVERED NEW FILE: http://localhost/wordpress/xmlrpc.php
+2018-06-13 06:13:52 SAVING URL: /wordpress/wp-json/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-json/index.json
+2018-06-13 06:13:52 CRAWLED FILE: http://localhost/wordpress/wp-json/
+2018-06-13 06:13:51 DISCOVERED NEW FILE: http://localhost/wordpress/wp-json/
+2018-06-13 06:13:51 SAVING URL: /wordpress/wp-includes/js/jquery/jquery-migrate.min.js to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+2018-06-13 06:13:51 CRAWLED FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+2018-06-13 06:13:51 DISCOVERED NEW FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+2018-06-13 06:13:51 SAVING URL: /wordpress/wp-includes/js/jquery/jquery.js to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-includes/js/jquery/jquery.js
+2018-06-13 06:13:51 CRAWLED FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery.js
+2018-06-13 06:13:51 DISCOVERED NEW FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery.js
+2018-06-13 06:13:51 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/assets/js/html5.js to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/assets/js/html5.js
+2018-06-13 06:13:51 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/html5.js
+2018-06-13 06:13:51 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/js/html5.js
+2018-06-13 06:13:51 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/assets/css/ie8.css to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/assets/css/ie8.css
+2018-06-13 06:13:51 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/css/ie8.css
+2018-06-13 06:13:51 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/assets/css/ie8.css
+2018-06-13 06:13:51 SAVING URL: /wordpress/wp-content/themes/twentyseventeen/style.css to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/wp-content/themes/twentyseventeen/style.css
+2018-06-13 06:13:51 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/style.css
+2018-06-13 06:13:51 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/twentyseventeen/style.css
+2018-06-13 06:13:51 SAVING URL: /wordpress/comments/feed/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/comments/feed/index.rss
+2018-06-13 06:13:51 CRAWLED FILE: http://localhost/wordpress/comments/feed/
+2018-06-13 06:13:51 DISCOVERED NEW FILE: http://localhost/wordpress/comments/feed/
+2018-06-13 06:13:51 SAVING URL: /wordpress/feed/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/wordpress/feed/index.rss
+2018-06-13 06:13:51 CRAWLED FILE: http://localhost/wordpress/feed/
+2018-06-13 06:13:50 DISCOVERED NEW FILE: http://localhost/wordpress/feed/
+2018-06-13 06:13:50 SAVING URL: /wordpress/ to new pathC:\wamp64\www\wordpress/wp-content/uploads/wp-static-html-output-1-1528870429-wang19971016/\/wordpress/index.html
+2018-06-13 06:13:50 CRAWLED FILE: http://localhost/wordpress/
+2018-06-13 06:13:50 CRAWLING URL: http://localhost/wordpress/
+2018-06-13 06:13:49 Initial list of files to include is prepared. Now crawling these to extract more URLs.
+2018-06-13 06:13:49 INITIAL CRAWL LIST CONTAINS 12 FILES
+2018-06-13 06:13:49 NOT INCLUDING ALL FILES FROM UPLOADS DIR
+2018-06-13 06:13:49 STARTING EXPORT: STATIC EXPORT URL 
+2018-06-13 06:13:49 STARTING EXPORT: VIA CLI? 
+2018-06-13 06:13:49 STARTING EXPORT: WP ADDRESS http://localhost/wordpress
+2018-06-13 06:13:49 STARTING EXPORT: WP URL http://localhost/wordpress
+2018-06-13 06:13:49 STARTING EXPORT: WP VERSION 4.9.6
+2018-06-13 06:13:49 STARTING EXPORT: OS VERSION Windows NT PC016 10.0 build 14393 (Windows 10) AMD64
+2018-06-13 06:13:49 STARTING EXPORT: PHP VERSION 5.6.35
+2018-06-13 06:13:49 STARTING EXPORT
